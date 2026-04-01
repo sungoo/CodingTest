@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\3x.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:3x.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:test3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\Test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:Test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\CodingTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:CodingTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3x.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\3x.cpp",
+              "RelativeDocumentMoniker": "3x.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\3x.cpp",
+              "RelativeToolTip": "3x.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-21T06:51:09.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test3.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test3.cpp",
+              "RelativeDocumentMoniker": "test3.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test3.cpp",
+              "RelativeToolTip": "test3.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T08:07:53.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test2.cpp",
+              "RelativeDocumentMoniker": "test2.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test2.cpp",
+              "RelativeToolTip": "test2.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T07:44:03.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\Test1.cpp",
+              "RelativeDocumentMoniker": "Test1.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\Test1.cpp",
+              "RelativeToolTip": "Test1.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-13T07:17:04.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodingTest.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\CodingTest.cpp",
+              "RelativeDocumentMoniker": "CodingTest.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\CodingTest.cpp",
+              "RelativeToolTip": "CodingTest.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T13:18:25.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
