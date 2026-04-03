@@ -33,5 +33,8 @@
     <ClCompile Include="BinaryAdd.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="findK.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\findK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:findK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\BinaryAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:BinaryAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "findK.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\findK.cpp",
+              "RelativeDocumentMoniker": "findK.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\findK.cpp",
+              "RelativeToolTip": "findK.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-03T12:35:03.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BinaryAdd.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\BinaryAdd.cpp",
               "RelativeDocumentMoniker": "BinaryAdd.cpp",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "3x.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\3x.cpp",
               "RelativeDocumentMoniker": "3x.cpp",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "3x.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-21T06:51:09.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T06:51:09.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "test3.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test3.cpp",
               "RelativeDocumentMoniker": "test3.cpp",
@@ -77,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "test2.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\test2.cpp",
               "RelativeDocumentMoniker": "test2.cpp",
@@ -89,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Test1.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\Test1.cpp",
               "RelativeDocumentMoniker": "Test1.cpp",
@@ -101,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CodingTest.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\CodingTest.cpp",
               "RelativeDocumentMoniker": "CodingTest.cpp",
