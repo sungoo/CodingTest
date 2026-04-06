@@ -39,5 +39,8 @@
     <ClCompile Include="Babbling.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stringRotate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
