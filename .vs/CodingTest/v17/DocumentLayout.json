@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\paperCut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:paperCut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\stringRotate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5B57F2B4-AB09-49C9-AF4A-9826C9B3B119}|CodingTest.vcxproj|solutionrelative:stringRotate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "paperCut.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\paperCut.cpp",
+              "RelativeDocumentMoniker": "paperCut.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\paperCut.cpp",
+              "RelativeToolTip": "paperCut.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T14:56:45.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "stringRotate.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\stringRotate.cpp",
               "RelativeDocumentMoniker": "stringRotate.cpp",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Babbling.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uACF5\uBD80\\CodingTest\\Babbling.cpp",
               "RelativeDocumentMoniker": "Babbling.cpp",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Babbling.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-06T13:29:22.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T13:29:22.116Z"
             }
           ]
         }
