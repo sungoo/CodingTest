@@ -88,7 +88,43 @@ int solution(vector<vector<int>> signals) {
     return answer;
 }
 
+int cleanerSignal(vector<vector<int>> signals) {
+    int answer = 0;
+    //각 신호등 길이 저장
+    vector<int> siglen;
+    for (int i = 0; i < signals.size(); i++) {
+        int len = 0;
+        for (int j = 0; j < 3; j++) {
+            len += signals[i][j];
+        }
+        siglen.push_back(len);
+    }
+    //순환
+    int turn = 0;
+    vector<int> signalTurn = vector<int>(signals.size(), 0);
+    bool isAllYell = false;
+    do {
+        int isYell = 0;
+        for (int i = 0; i < signalTurn.size(); i++) {
+            signalTurn[i] = turn % siglen[i];
+            if (signalTurn[i] >= signals[i][0] && signalTurn[i] - signals[i][0] < signals[i][1])
+                isYell++;
+        }
+
+        if (turn != 0 && signalTurn == vector<int>(signals.size(), 0)) {
+            answer = -1;
+            isAllYell = true;
+        }
+        if (isYell >= signals.size()) 
+            isAllYell = true;
+        turn++;
+    } while (!isAllYell);
+    if (answer != -1)
+        answer = turn;
+    return answer;
+}
+
 int main() {
-    cout << solution({ {1, 1, 4}, { 2, 1, 3 }, {3, 1, 2 }, {4, 1, 1 } });
+    cout << cleanerSignal({ {1, 1, 4}, { 2, 1, 3 }, {3, 1, 2 }, {4, 1, 1 } });
     return 0;
 }
